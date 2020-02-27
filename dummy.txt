@@ -1,0 +1,7 @@
+this is a dummy file
+
+line 1 samepl text 
+
+line 2 sample textt
+
+line sample 3 text
